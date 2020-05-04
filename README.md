@@ -1,4 +1,4 @@
-# Daily-high-and-low-temperatures-2014-n-Death-Valley-CA
+# Daily temperatures
 downloaded data sets
 from online source and created a working
 visualizations of that data.
